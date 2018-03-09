@@ -26,7 +26,6 @@ luego en la carpeta raiz
 
 
 ## Licencia
-<!-- que vivan los aguacates-->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository has the standard MIT license. You can find it [here.](https://github.com/jsprieto10/recetaspatodos/blob/master/LICENSE
