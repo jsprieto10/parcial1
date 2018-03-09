@@ -22,6 +22,9 @@ class Form extends React.Component {
     event.preventDefault();
   }
 
+  jugadores(a, b){
+    this.props.jug(a,b);
+  }
 
 
 
